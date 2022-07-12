@@ -1,7 +1,7 @@
 {
   "name": "blive-ws",
-  "version": "0.0.1",
-  "main": "lib/WebPlayerSocket.js",
+  "version": "0.0.2-beta",
+  "main": "lib/SocketCore.js",
   "repository": "git@github.com:champkeh/blive.git",
   "author": "champkeh <champion.ge@gmail.com>",
   "license": "MIT",
