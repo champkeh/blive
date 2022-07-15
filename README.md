@@ -46,6 +46,9 @@ socket.addEventListener('DANMU_MSG', ({detail}) => {
 })
 ```
 
+> 使用案例可以参考 [弹幕采集demo](https://github.com/champkeh/danmaku.bilibili/blob/master/apps/demo/app.js)
+
+
 ## Options
 
 | 参数名 |   类型   | 说明  | 必填  | 默认值 |
