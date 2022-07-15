@@ -1,5 +1,9 @@
 # blive
 
+<p align="left">
+<a href="https://npmjs.com/package/blive-ws"><img src="https://img.shields.io/npm/v/blive-ws.svg" alt="npm package"></a>
+</p>
+
 b站直播间的ws服务
 
 ## 安装
